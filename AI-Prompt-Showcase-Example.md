@@ -10,7 +10,7 @@
 
 ```text
 AIpicture/
-├─ AI-Prompt-Showcase.md
+├─ README.md
 └─ images/
    ├─ case-01/
    │  ├─ image-01.png
